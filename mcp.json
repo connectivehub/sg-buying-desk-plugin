@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "sg-buying-desk": {
+      "type": "streamable-http",
+      "url": "https://mcp.connective-labs.com/sg-buying-desk/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sg-buying-desk",
+  "version": "1.0.0",
+  "description": "Singapore Buying Desk helps office managers and small teams in Singapore buy office, IT and event-print supplies by giving firm, GST-inclusive SGD quotes with delivery dates from a daily-refreshed trade catalog, so they can price and order supplies in one chat instead of calling vendors.",
+  "author": {
+    "name": "Connective Labs Pte. Ltd.",
+    "email": "leon@connective-labs.com",
+    "url": "https://mcp.connective-labs.com/"
+  },
+  "homepage": "https://mcp.connective-labs.com/",
+  "repository": "https://github.com/connectivehub/sg-buying-desk-plugin",
+  "license": "MIT",
+  "keywords": [
+    "singapore",
+    "office-supplies",
+    "procurement",
+    "ink",
+    "toner",
+    "printing",
+    "shopping",
+    "quotes"
+  ]
+}
