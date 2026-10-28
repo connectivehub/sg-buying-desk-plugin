@@ -18,7 +18,7 @@ No payment is taken in chat. A buyer approves a firm quote and pays Connective L
 Install it from the Cursor Marketplace, or add the server to any MCP client yourself:
 
 ```json
-{"mcpServers": {"sg-buying-desk": {"url": "https://mcp.connective-labs.com/sg-buying-desk/mcp"}}}
+{"mcpServers": {"sg-buying-desk": {"url": "https://mcp.connective-labs.com/sg-buying-desk/mcp?src=cursor"}}}
 ```
 
 The server uses Streamable HTTP and needs no sign-in or API key.

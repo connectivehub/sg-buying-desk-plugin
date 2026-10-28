@@ -3,7 +3,7 @@
   "mcpServers": {
     "sg-buying-desk": {
       "type": "streamable-http",
-      "url": "https://mcp.connective-labs.com/sg-buying-desk/mcp"
+      "url": "https://mcp.connective-labs.com/sg-buying-desk/mcp?src=cursor"
     }
   }
 }
